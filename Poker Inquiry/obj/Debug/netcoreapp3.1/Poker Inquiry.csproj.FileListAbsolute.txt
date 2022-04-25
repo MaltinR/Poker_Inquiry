@@ -1,0 +1,15 @@
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\bin\Debug\netcoreapp3.1\Poker Inquiry.exe
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\bin\Debug\netcoreapp3.1\Poker Inquiry.deps.json
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\bin\Debug\netcoreapp3.1\Poker Inquiry.runtimeconfig.json
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\bin\Debug\netcoreapp3.1\Poker Inquiry.runtimeconfig.dev.json
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\bin\Debug\netcoreapp3.1\Poker Inquiry.dll
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\bin\Debug\netcoreapp3.1\Poker Inquiry.pdb
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.csprojAssemblyReference.cache
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker_Inquiry.Form1.resources
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.csproj.GenerateResource.cache
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.AssemblyInfoInputs.cache
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.AssemblyInfo.cs
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.csproj.CoreCompileInputs.cache
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.dll
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.pdb
+E:\Software\Development\PokerStrategy\Poker Inquiry\Poker Inquiry\obj\Debug\netcoreapp3.1\Poker Inquiry.genruntimeconfig.cache
